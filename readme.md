@@ -36,7 +36,7 @@ Add `blacklist` to the validation rules string.
 Require this package with composer:
 
 ```
-composer require alariva/laravel-email-domain-blacklist
+composer require tiznull/laravel-email-domain-blacklist
 ```
 
 This package uses *AutoDiscovery*.
